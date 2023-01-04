@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteTargetsManager">
+    <option name="projectDefaultTargetUuid" value="5f52b97e-0b40-430d-85d8-777e700b3f4a" />
+    <targets>
+      <target name="WSL - Ubuntu-20.04" type="wsl" uuid="5f52b97e-0b40-430d-85d8-777e700b3f4a">
+        <config>
+          <option name="distributionMsId" value="Ubuntu-20.04" />
+          <option name="projectRootOnTarget" value="/mnt/c/Program Files/JetBrains/GoLand 2021.3.4/jbr/bin&#10;/ginTest" />
+        </config>
+      </target>
+    </targets>
+  </component>
+</project>
